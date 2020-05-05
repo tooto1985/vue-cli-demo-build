@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["about"],{f820:function(t,e,n){"use strict";n.r(e);var u=function(){var t=this,e=t.$createElement;t._self._c;return t._m(0)},c=[function(){var t=this,e=t.$createElement,n=t._self._c||e;return n("div",{staticClass:"about"},[n("h2",[t._v("重新整理(F5)時網址維持不變，但會取得 /index.html 頁面內容，這樣才可確保 history 模式下正常操作")])])}],i={mounted:function(){document.title="關於頁面"}},l=i,o=n("2877"),s=Object(o["a"])(l,u,c,!1,null,null,null);e["default"]=s.exports}}]);
+//# sourceMappingURL=about.5d48f61a.js.map
