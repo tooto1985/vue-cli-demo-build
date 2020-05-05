@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["about"],{f820:function(t,e,n){"use strict";n.r(e);var u=function(){var t=this,e=t.$createElement;t._self._c;return t._m(0)},l=[function(){var t=this,e=t.$createElement,n=t._self._c||e;return n("div",{staticClass:"about"},[n("h1",[t._v("重新整理也會先透過nginx取得/index.html頁面內容")])])}],a={mounted:function(){alert("eee"),document.title="關於頁面"}},c=a,i=n("2877"),o=Object(i["a"])(c,u,l,!1,null,null,null);e["default"]=o.exports}}]);
+//# sourceMappingURL=about.cdd26c43.js.map
